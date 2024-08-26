@@ -10,27 +10,38 @@
 
 Sou um **Estudante de Ciência de Dados** com grande interesse em áreas relacionadas como Estatística, Machine Learning e Análise de Dados. Estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas e tecnologias para resolver problemas do mundo real. Aprender e aplicar conceitos de dados em projetos práticos é minha maior motivação.
 
-- 🔭 Atualmente trabalhando no Financeiro da Celmarthe
+- 🔭 Atualmente trabalhando no **Financeiro da Celmarthe**
 - 🌱 Aprendendo **Analise de dados**
-- 💬 Me pergunte sobre **JavaScript, Python, SQL, etc.**
-- 📫 Como me encontrar: **[seu email]**
-- ⚡ Curiosidade: Sou apaixonado por **[Algo Interessante Sobre Você]**
+- 💬 Me pergunte sobre **Python, SQL, BI, etc.**
+- 📫 Como me encontrar: **pedrohdpn113@gmail.com**
+- ⚡ Curiosidade: Sou apaixonado por **Tecnologia**
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%232F6CFF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-%2300A3E0?style=for-the-badge&logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" />
+  <!-- Adiciona um título ou descrição para os cards -->
+  <h2 align="center">Meu Perfil GitHub</h2>
+  
+  <!-- Card de Estatísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Card de Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark" alt="Principais Linguagens" />
 </p>
 
-## 🏆 Conquistas
+<!-- Adiciona uma breve descrição abaixo dos cards -->
+<p align="center">
+  <i>Estatísticas e principais linguagens que utilizo. Acompanhe meu progresso e projetos!</i>
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SeuUsuario&theme=radical&no-bg=true&no-frame=true&column=7)
 
 ## 📫 Conecte-se Comigo
 
