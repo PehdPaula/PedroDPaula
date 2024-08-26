@@ -10,8 +10,8 @@
 
 Sou um **Estudante de Ciência de Dados** com grande interesse em áreas relacionadas como Estatística, Machine Learning e Análise de Dados. Estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas e tecnologias para resolver problemas do mundo real. Aprender e aplicar conceitos de dados em projetos práticos é minha maior motivação.
 
-- 🔭 Atualmente trabalhando em [Seu Projeto Atual]
-- 🌱 Aprendendo **[Tecnologia ou Habilidade Atual]**
+- 🔭 Atualmente trabalhando no Financeiro da Celmarthe
+- 🌱 Aprendendo **Analise de dados**
 - 💬 Me pergunte sobre **JavaScript, Python, SQL, etc.**
 - 📫 Como me encontrar: **[seu email]**
 - ⚡ Curiosidade: Sou apaixonado por **[Algo Interessante Sobre Você]**
