@@ -1,53 +1,43 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+# 👋 **Bem-vindo ao meu GitHub!**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Data+Scientist;Business+Intelligence;Metabase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Data+Scientist+|+AI+Enthusiast;Business+Intelligence;Transformando+Dados+em+Insights)](https://git.io/typing-svg)
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="300"/>
 </p>
 
-## 🚀 Sobre Mim
+---
 
-Sou um **Estudante de Ciência de Dados** com grande interesse em áreas relacionadas como Estatística, Machine Learning e Análise de Dados. Estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas e tecnologias para resolver problemas do mundo real. Aprender e aplicar conceitos de dados em projetos práticos é minha maior motivação.
+## 🚀 **Sobre Mim**
 
-- 🔭 Atualmente trabalhando no **Financeiro da Marth.**
-- 🌱 Aprendendo **Analise de dados, Linguagem de Programação, Dashboards, Estatísticas.**
-- 💬 Me pergunte sobre **Python, SQL, BI, Tecnologia.**
-- 📫 Como me encontrar: **pedrohdpn113@gmail.com**
-- ⚡ Curiosidade: Sou apaixonado por **Tecnologia.**
+👨‍💻 Sou um **Estudante de Ciência de Dados** apaixonado por **Tecnologia, Inteligência Artificial** e **Análise de Dados**. Sempre em busca de soluções inovadoras e práticas, utilizo ferramentas modernas para resolver problemas do mundo real. Meu objetivo é transformar **dados** em **insights valiosos** e contribuir para um futuro mais **inteligente e conectado**.  
 
-## 🛠️ Tecnologias & Ferramentas
+- 🎯 Atualmente, atuando no **Financeiro da Marth**.
+- 🌱 Estudando **Python, SQL, Machine Learning, Estatística, e Dashboards**.
+- 💬 Vamos falar sobre **Inteligência Artificial, BI, e Análise de Dados**.
+- 📫 Como me encontrar: **pedrohdpn113@gmail.com**  
+- ⚡ Curiosidade: Amo **desafios** e **aprender coisas novas**!  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%232F6CFF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-%2300A3E0?style=for-the-badge&logo=metabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white)
+---
 
+## 🛠️ **Minhas Tecnologias & Ferramentas**
 
-## 📊 Estatísticas do GitHub
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2300A3E0?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/-Metabase-008EBA?style=flat-square&logo=metabase&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<p align="center">
-  <!-- Adiciona um título ou descrição para os cards -->
-  <h2 align="center">Meu Perfil GitHub</h2>
-  
-  <!-- Card de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <!-- Card de Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark" alt="Principais Linguagens" />
-</p>
+---
 
-<!-- Adiciona uma breve descrição abaixo dos cards -->
-<p align="center">
-  <i>Estatísticas e principais linguagens que utilizo. Acompanhe meu progresso e projetos!</i>
-</p>
-
-
-## 📫 Conecte-se Comigo
+## 🌐 **Conecte-se Comigo**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/seutwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/PehdPaula"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/pedro-de-paula-745024267/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pedrohdpn113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/PehdPaula"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
