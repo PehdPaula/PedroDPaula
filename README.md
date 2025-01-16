@@ -10,11 +10,11 @@
 
 Sou um **Estudante de Ciência de Dados** com grande interesse em áreas relacionadas como Estatística, Machine Learning e Análise de Dados. Estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas e tecnologias para resolver problemas do mundo real. Aprender e aplicar conceitos de dados em projetos práticos é minha maior motivação.
 
-- 🔭 Atualmente trabalhando no **Financeiro da Celmarthe**
-- 🌱 Aprendendo **Analise de dados**
-- 💬 Me pergunte sobre **Python, SQL, BI, etc.**
+- 🔭 Atualmente trabalhando no **Financeiro da Marth.**
+- 🌱 Aprendendo **Analise de dados, Linguagem de Programação, Dashboards, Estatísticas.**
+- 💬 Me pergunte sobre **Python, SQL, BI, Tecnologia.**
 - 📫 Como me encontrar: **pedrohdpn113@gmail.com**
-- ⚡ Curiosidade: Sou apaixonado por **Tecnologia**
+- ⚡ Curiosidade: Sou apaixonado por **Tecnologia.**
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -49,5 +49,5 @@ Sou um **Estudante de Ciência de Dados** com grande interesse em áreas relacio
   <a href="https://www.linkedin.com/in/seulinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/seutwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/SeuUsuario"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></a>
+  <a href="https://github.com/PehdPaula"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></a>
 </p>
