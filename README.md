@@ -1,43 +1,82 @@
-# 👋 **Bem-vindo ao meu GitHub!**
+<h2 align="left">👤 Meu nome é Pedro Henrique de Paula Neto, tenho 19 anos e resido no interior de São Paulo. Sou uma pessoa dedicada e comprometida com resultados de excelência. Adoro desafios e valorizo novas experiências, pois acredito que o conhecimento é ilimitado e basta ter disposição para aprender e crescer continuamente.</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Data+Scientist+|+AI+Enthusiast;Business+Intelligence;Transformando+Dados+em+Insights)](https://git.io/typing-svg)
+###
 
----
+<br clear="both">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="300"/>
-</p>
+<img align="left" height="200" src="https://media.giphy.com/media/KyQxJKQrSsXF6/giphy.gif"  />
 
----
+###
 
-## 🚀 **Sobre Mim**
+<h4 align="left">📊 Atualmente, sou estudante de Ciência de Dados e Inteligência Artificial na Universidade Uniso, onde estou no 3º semestre do curso iniciado em fevereiro de 2024, com conclusão prevista para fevereiro de 2028. Durante esse período, tenho aprimorado habilidades em áreas como aprendizado de máquina, infraestrutura de TI e bancos de dados relacionais, entre outras.</h4>
 
-👨‍💻 Sou um **Estudante de Ciência de Dados** apaixonado por **Tecnologia, Inteligência Artificial** e **Análise de Dados**. Sempre em busca de soluções inovadoras e práticas, utilizo ferramentas modernas para resolver problemas do mundo real. Meu objetivo é transformar **dados** em **insights valiosos** e contribuir para um futuro mais **inteligente e conectado**.  
+###
 
-- 🎯 Atualmente, atuando no **Financeiro da Marth**.
-- 🌱 Estudando **Python, SQL, Machine Learning, Estatística, e Dashboards**.
-- 💬 Vamos falar sobre **Inteligência Artificial, BI, e Análise de Dados**.
-- 📫 Como me encontrar: **pedrohdpn113@gmail.com**  
-- ⚡ Curiosidade: Amo **desafios** e **aprender coisas novas**!  
+<br clear="both">
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PehdPaula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PehdPaula&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ **Minhas Tecnologias & Ferramentas**
+###
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-%2300A3E0?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/-Metabase-008EBA?style=flat-square&logo=metabase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<h4 align="left">Habilidades em desenvolvimento contínuo📘</h4>
 
----
+###
 
-## 🌐 **Conecte-se Comigo**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-de-paula-745024267/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pedrohdpn113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/PehdPaula"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PehdPaula/PehdPaula/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="left">Conecte-se comigo em minhas redes sociais!🌐</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-de-paula-745024267/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="pedrohdpn113@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/pe.h.dpaula/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
