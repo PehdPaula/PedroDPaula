@@ -9,7 +9,7 @@
 🔹 **Estudando:** Ciência de Dados, Inglês, Programação  
 🔹 **Foco em:** IA, Desenvolvimento Web e Análise de Dados  
 🔹 **Idiomas:** Português (Nativo) | Inglês (Básico) estudando  
-🔹 **Aprendendo:** Desenvolvimento Full Stack, Ciber Security, IA, Git e Github 
+🔹 **Aprendendo:** Desenvolvimento Full Stack, Cyber Security, IA, Git e Github 
 
 
 📌 **Meta Atual:** Criando um **site de auxílio financeiro** para ajudar pessoas a organizarem suas finanças! 💰📈  
